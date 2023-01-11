@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ehtasham3233
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Laravel PHP projects
+- 🌱 I’m currently learning Python Machine Learning
+- 💞️ I’m looking to collaborate on Laravel Projects
 - 📫 How to reach me ... contact +923411622166
 
 <!---
